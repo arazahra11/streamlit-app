@@ -1,4 +1,5 @@
-tensorflow
+streamlit==1.34.0
+tensorflow==2.13.0
 numpy
 pandas
 matplotlib
